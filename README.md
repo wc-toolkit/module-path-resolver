@@ -15,7 +15,7 @@ The goal is to make the paths in the CEM as accurate as possible so tools can ac
 To install the package, use the following command:
 
 ```bash
-npm install @wc-toolkit/module-path-resolver
+npm install -D @wc-toolkit/module-path-resolver
 ```
 
 ## Usage
