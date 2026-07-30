@@ -8,7 +8,7 @@
 
 This tool is designed to update module paths in your Custom Elements Manifest to the output target.
 
-The goal is to make the paths in the CEM as accurate as possible so tools can accurately reference these.
+The goal is to make the paths in the CEM as accurate as possible so tools can accurately reference these. When a module path is updated, nested module references such as `exports[*].declaration.module` are updated too when they point to another known module in the manifest.
 
 ## Installation
 
