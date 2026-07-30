@@ -4,7 +4,7 @@ export type ModulePathResolverOptions = {
     /** The current value in the `path` property (typically to the source code) */
     modulePath: string,
     /** The name of the component */
-    name: string,
+    name?: string,
     /** The tag name of the component */
     tagName?: string
   ) => string;
@@ -13,7 +13,7 @@ export type ModulePathResolverOptions = {
     /** The current value in the `path` property (typically to the source code) */
     modulePath: string,
     /** The name of the component */
-    name: string,
+    name?: string,
     /** The tag name of the component */
     tagName?: string
   ) => string;
@@ -22,7 +22,7 @@ export type ModulePathResolverOptions = {
     /** The current value in the `path` property (typically to the source code) */
     modulePath: string,
     /** The name of the component */
-    name: string,
+    name?: string,
     /** The tag name of the component */
     tagName?: string
   ) => string;

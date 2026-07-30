@@ -326,7 +326,7 @@
           "name": "default",
           "declaration": {
             "name": "SlAlert",
-            "module": "components/alert/alert.js"
+            "module": "dist/components/alert/alert.component.js"
           }
         }
       ],
@@ -681,7 +681,7 @@
           "name": "default",
           "declaration": {
             "name": "SlAnimation",
-            "module": "components/animation/animation.js"
+            "module": "dist/components/animation/animation.component.js"
           }
         }
       ],
@@ -868,7 +868,7 @@
           "name": "default",
           "declaration": {
             "name": "SlAnimatedImage",
-            "module": "components/animated-image/animated-image.js"
+            "module": "dist/components/animated-image/animated-image.component.js"
           }
         }
       ],
@@ -978,7 +978,7 @@
           "name": "default",
           "declaration": {
             "name": "SlBadge",
-            "module": "components/badge/badge.js"
+            "module": "dist/components/badge/badge.component.js"
           }
         }
       ],
@@ -1145,7 +1145,7 @@
           "name": "default",
           "declaration": {
             "name": "SlBreadcrumbItem",
-            "module": "components/breadcrumb-item/breadcrumb-item.js"
+            "module": "dist/components/breadcrumb-item/breadcrumb-item.component.js"
           }
         }
       ],
@@ -1266,7 +1266,7 @@
           "name": "default",
           "declaration": {
             "name": "SlBreadcrumb",
-            "module": "components/breadcrumb/breadcrumb.js"
+            "module": "dist/components/breadcrumb/breadcrumb.component.js"
           }
         }
       ],
@@ -1468,7 +1468,7 @@
           "name": "default",
           "declaration": {
             "name": "SlAvatar",
-            "module": "components/avatar/avatar.js"
+            "module": "dist/components/avatar/avatar.component.js"
           }
         }
       ],
@@ -2143,7 +2143,7 @@
           "name": "default",
           "declaration": {
             "name": "SlButton",
-            "module": "components/button/button.js"
+            "module": "dist/components/button/button.component.js"
           }
         }
       ],
@@ -2284,7 +2284,7 @@
           "name": "default",
           "declaration": {
             "name": "SlButtonGroup",
-            "module": "components/button-group/button-group.js"
+            "module": "dist/components/button-group/button-group.component.js"
           }
         }
       ],
@@ -2385,7 +2385,7 @@
           "name": "default",
           "declaration": {
             "name": "SlCard",
-            "module": "components/card/card.js"
+            "module": "dist/components/card/card.component.js"
           }
         }
       ],
@@ -2970,7 +2970,7 @@
           "name": "default",
           "declaration": {
             "name": "SlCarousel",
-            "module": "components/carousel/carousel.js"
+            "module": "dist/components/carousel/carousel.component.js"
           }
         }
       ],
@@ -3016,7 +3016,7 @@
           "name": "default",
           "declaration": {
             "name": "SlCarouselItem",
-            "module": "components/carousel-item/carousel-item.js"
+            "module": "dist/components/carousel-item/carousel-item.component.js"
           }
         }
       ],
@@ -3483,7 +3483,7 @@
           "name": "default",
           "declaration": {
             "name": "SlCheckbox",
-            "module": "components/checkbox/checkbox.js"
+            "module": "dist/components/checkbox/checkbox.component.js"
           }
         }
       ],
@@ -4494,7 +4494,7 @@
           "name": "default",
           "declaration": {
             "name": "SlColorPicker",
-            "module": "components/color-picker/color-picker.js"
+            "module": "dist/components/color-picker/color-picker.component.js"
           }
         }
       ],
@@ -4759,7 +4759,7 @@
           "name": "default",
           "declaration": {
             "name": "SlDetails",
-            "module": "components/details/details.js"
+            "module": "dist/components/details/details.component.js"
           }
         }
       ],
@@ -5133,7 +5133,7 @@
           "name": "default",
           "declaration": {
             "name": "SlCopyButton",
-            "module": "components/copy-button/copy-button.js"
+            "module": "dist/components/copy-button/copy-button.component.js"
           }
         }
       ],
@@ -5484,7 +5484,7 @@
           "name": "default",
           "declaration": {
             "name": "SlDialog",
-            "module": "components/dialog/dialog.js"
+            "module": "dist/components/dialog/dialog.component.js"
           }
         }
       ],
@@ -5560,7 +5560,7 @@
           "name": "default",
           "declaration": {
             "name": "SlDivider",
-            "module": "components/divider/divider.js"
+            "module": "dist/components/divider/divider.component.js"
           }
         }
       ],
@@ -5979,7 +5979,7 @@
           "name": "default",
           "declaration": {
             "name": "SlDrawer",
-            "module": "components/drawer/drawer.js"
+            "module": "dist/components/drawer/drawer.component.js"
           }
         }
       ],
@@ -6385,7 +6385,7 @@
           "name": "default",
           "declaration": {
             "name": "SlDropdown",
-            "module": "components/dropdown/dropdown.js"
+            "module": "dist/components/dropdown/dropdown.component.js"
           }
         }
       ],
@@ -6610,7 +6610,7 @@
           "name": "default",
           "declaration": {
             "name": "SlFormatNumber",
-            "module": "components/format-number/format-number.js"
+            "module": "dist/components/format-number/format-number.component.js"
           }
         }
       ],
@@ -6712,7 +6712,7 @@
           "name": "default",
           "declaration": {
             "name": "SlFormatBytes",
-            "module": "components/format-bytes/format-bytes.js"
+            "module": "dist/components/format-bytes/format-bytes.component.js"
           }
         }
       ],
@@ -6965,7 +6965,7 @@
           "name": "default",
           "declaration": {
             "name": "SlFormatDate",
-            "module": "components/format-date/format-date.js"
+            "module": "dist/components/format-date/format-date.component.js"
           }
         }
       ],
@@ -7092,7 +7092,7 @@
           "name": "default",
           "declaration": {
             "name": "SlInclude",
-            "module": "components/include/include.js"
+            "module": "dist/components/include/include.component.js"
           }
         }
       ],
@@ -8109,7 +8109,7 @@
           "name": "default",
           "declaration": {
             "name": "SlInput",
-            "module": "components/input/input.js"
+            "module": "dist/components/input/input.component.js"
           }
         }
       ],
@@ -8383,7 +8383,7 @@
           "name": "default",
           "declaration": {
             "name": "SlIconButton",
-            "module": "components/icon-button/icon-button.js"
+            "module": "dist/components/icon-button/icon-button.component.js"
           }
         }
       ],
@@ -8581,7 +8581,7 @@
           "name": "default",
           "declaration": {
             "name": "SlIcon",
-            "module": "components/icon/icon.js"
+            "module": "dist/components/icon/icon.component.js"
           }
         }
       ],
@@ -8756,7 +8756,7 @@
           "name": "default",
           "declaration": {
             "name": "SlImageComparer",
-            "module": "components/image-comparer/image-comparer.js"
+            "module": "dist/components/image-comparer/image-comparer.component.js"
           }
         }
       ],
@@ -9046,7 +9046,7 @@
           "name": "default",
           "declaration": {
             "name": "SlMenuItem",
-            "module": "components/menu-item/menu-item.js"
+            "module": "dist/components/menu-item/menu-item.component.js"
           }
         }
       ],
@@ -9093,7 +9093,7 @@
           "name": "default",
           "declaration": {
             "name": "SlMenuLabel",
-            "module": "components/menu-label/menu-label.js"
+            "module": "dist/components/menu-label/menu-label.component.js"
           }
         }
       ],
@@ -9210,7 +9210,7 @@
           "name": "default",
           "declaration": {
             "name": "SlMenu",
-            "module": "components/menu/menu.js"
+            "module": "dist/components/menu/menu.component.js"
           }
         }
       ],
@@ -9414,7 +9414,7 @@
           "name": "default",
           "declaration": {
             "name": "SlMutationObserver",
-            "module": "components/mutation-observer/mutation-observer.js"
+            "module": "dist/components/mutation-observer/mutation-observer.component.js"
           }
         }
       ],
@@ -9619,7 +9619,7 @@
           "name": "default",
           "declaration": {
             "name": "SlOption",
-            "module": "components/option/option.js"
+            "module": "dist/components/option/option.component.js"
           }
         }
       ],
@@ -9759,7 +9759,7 @@
           "name": "default",
           "declaration": {
             "name": "SlProgressRing",
-            "module": "components/progress-ring/progress-ring.js"
+            "module": "dist/components/progress-ring/progress-ring.component.js"
           }
         }
       ],
@@ -10327,7 +10327,7 @@
           "name": "default",
           "declaration": {
             "name": "SlPopup",
-            "module": "components/popup/popup.js"
+            "module": "dist/components/popup/popup.component.js"
           }
         }
       ],
@@ -10469,7 +10469,7 @@
           "name": "default",
           "declaration": {
             "name": "SlProgressBar",
-            "module": "components/progress-bar/progress-bar.js"
+            "module": "dist/components/progress-bar/progress-bar.component.js"
           }
         }
       ],
@@ -10663,7 +10663,7 @@
           "name": "default",
           "declaration": {
             "name": "SlRadio",
-            "module": "components/radio/radio.js"
+            "module": "dist/components/radio/radio.component.js"
           }
         }
       ],
@@ -11116,7 +11116,7 @@
           "name": "default",
           "declaration": {
             "name": "SlRadioGroup",
-            "module": "components/radio-group/radio-group.js"
+            "module": "dist/components/radio-group/radio-group.component.js"
           }
         }
       ],
@@ -11304,7 +11304,7 @@
           "name": "default",
           "declaration": {
             "name": "SlQrCode",
-            "module": "components/qr-code/qr-code.js"
+            "module": "dist/components/qr-code/qr-code.component.js"
           }
         }
       ],
@@ -11549,7 +11549,7 @@
           "name": "default",
           "declaration": {
             "name": "SlRadioButton",
-            "module": "components/radio-button/radio-button.js"
+            "module": "dist/components/radio-button/radio-button.component.js"
           }
         }
       ],
@@ -12127,7 +12127,7 @@
           "name": "default",
           "declaration": {
             "name": "SlRange",
-            "module": "components/range/range.js"
+            "module": "dist/components/range/range.component.js"
           }
         }
       ],
@@ -12575,7 +12575,7 @@
           "name": "default",
           "declaration": {
             "name": "SlRating",
-            "module": "components/rating/rating.js"
+            "module": "dist/components/rating/rating.component.js"
           }
         }
       ],
@@ -12722,7 +12722,7 @@
           "name": "default",
           "declaration": {
             "name": "SlRelativeTime",
-            "module": "components/relative-time/relative-time.js"
+            "module": "dist/components/relative-time/relative-time.component.js"
           }
         }
       ],
@@ -12833,7 +12833,7 @@
           "name": "default",
           "declaration": {
             "name": "SlResizeObserver",
-            "module": "components/resize-observer/resize-observer.js"
+            "module": "dist/components/resize-observer/resize-observer.component.js"
           }
         }
       ],
@@ -13827,7 +13827,7 @@
           "name": "default",
           "declaration": {
             "name": "SlSelect",
-            "module": "components/select/select.js"
+            "module": "dist/components/select/select.component.js"
           }
         }
       ],
@@ -13908,7 +13908,7 @@
           "name": "default",
           "declaration": {
             "name": "SlSkeleton",
-            "module": "components/skeleton/skeleton.js"
+            "module": "dist/components/skeleton/skeleton.component.js"
           }
         }
       ],
@@ -14320,7 +14320,7 @@
           "name": "SNAP_NONE",
           "declaration": {
             "name": "SNAP_NONE",
-            "module": "components/split-panel/split-panel.js"
+            "module": "dist/components/split-panel/split-panel.component.js"
           }
         },
         {
@@ -14328,7 +14328,7 @@
           "name": "default",
           "declaration": {
             "name": "SlSplitPanel",
-            "module": "components/split-panel/split-panel.js"
+            "module": "dist/components/split-panel/split-panel.component.js"
           }
         }
       ],
@@ -14395,7 +14395,7 @@
           "name": "default",
           "declaration": {
             "name": "SlSpinner",
-            "module": "components/spinner/spinner.js"
+            "module": "dist/components/spinner/spinner.component.js"
           }
         }
       ],
@@ -14845,7 +14845,7 @@
           "name": "default",
           "declaration": {
             "name": "SlSwitch",
-            "module": "components/switch/switch.js"
+            "module": "dist/components/switch/switch.component.js"
           }
         }
       ],
@@ -14962,7 +14962,7 @@
           "name": "default",
           "declaration": {
             "name": "SlTabPanel",
-            "module": "components/tab-panel/tab-panel.js"
+            "module": "dist/components/tab-panel/tab-panel.component.js"
           }
         }
       ],
@@ -15172,7 +15172,7 @@
           "name": "default",
           "declaration": {
             "name": "SlTab",
-            "module": "components/tab/tab.js"
+            "module": "dist/components/tab/tab.component.js"
           }
         }
       ],
@@ -15644,7 +15644,7 @@
           "name": "default",
           "declaration": {
             "name": "SlTabGroup",
-            "module": "components/tab-group/tab-group.js"
+            "module": "dist/components/tab-group/tab-group.component.js"
           }
         }
       ],
@@ -16427,7 +16427,7 @@
           "name": "default",
           "declaration": {
             "name": "SlTextarea",
-            "module": "components/textarea/textarea.js"
+            "module": "dist/components/textarea/textarea.component.js"
           }
         }
       ],
@@ -16600,7 +16600,7 @@
           "name": "default",
           "declaration": {
             "name": "SlTag",
-            "module": "components/tag/tag.js"
+            "module": "dist/components/tag/tag.component.js"
           }
         }
       ],
@@ -16991,7 +16991,7 @@
           "name": "default",
           "declaration": {
             "name": "SlTooltip",
-            "module": "components/tooltip/tooltip.js"
+            "module": "dist/components/tooltip/tooltip.component.js"
           }
         }
       ],
@@ -17271,7 +17271,7 @@
           "name": "default",
           "declaration": {
             "name": "SlTree",
-            "module": "components/tree/tree.js"
+            "module": "dist/components/tree/tree.component.js"
           }
         }
       ],
@@ -17692,7 +17692,7 @@
           "name": "default",
           "declaration": {
             "name": "SlTreeItem",
-            "module": "components/tree-item/tree-item.js"
+            "module": "dist/components/tree-item/tree-item.component.js"
           }
         }
       ],
@@ -17733,7 +17733,7 @@
           "name": "default",
           "declaration": {
             "name": "SlVisuallyHidden",
-            "module": "components/visually-hidden/visually-hidden.js"
+            "module": "dist/components/visually-hidden/visually-hidden.component.js"
           }
         }
       ],
